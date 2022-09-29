@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla-dev</finalName>
+		<finalName>tesla-Prod</finalName>
 		
 		<plugins>
 			<plugin>
