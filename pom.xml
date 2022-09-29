@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Final-Prod</finalName>
+		<finalName>Bank of America</finalName>
 		
 		<plugins>
 			<plugin>
